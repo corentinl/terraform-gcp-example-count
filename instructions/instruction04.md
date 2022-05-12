@@ -28,7 +28,7 @@ Open variables.tf (or create it if non existent) in your text editor, and declar
 variable "instance_count" {
   description = "Number of instances "
   type        = number
-  default     = REPLACE_WOTH_NUMBER
+  default     = REPLACE_WITH_NUMBER
 }
 ```
 
